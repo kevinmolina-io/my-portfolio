@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'As a Latino in Software Engineering, my goal is to be a champion of inclusion and build a community that builds and provides resources for my community and encourage for more representation of underrepresented minorities in tech.',
   paragraphThree: 'For more info, take a look at my resume below.',
-  resume: 'https://drive.google.com/file/d/121lvPCCeP4wNW1VCEqkJZB83iwPyFjjN/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1fduPE4IufMlIsKrSwleQMXVHoK4GDOp5/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
